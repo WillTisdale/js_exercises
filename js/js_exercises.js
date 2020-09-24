@@ -62,6 +62,9 @@ console.log('offerApplied = buyMoreThanTwo && offerNotExpired');
 
 console.log("Exercise 4");
 
+
+function checkUnAndPassword(username, password){
+
 var username = 'codeup';
 var password = 'notastrongpassword';
 
@@ -96,3 +99,6 @@ else {
 	console.log(true);
 }
 
+}
+
+checkUnAndPassword();
