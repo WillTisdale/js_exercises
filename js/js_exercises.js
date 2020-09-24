@@ -65,9 +65,9 @@ console.log("Exercise 4");
 
 function checkUnAndPassword(username, password){
 
-var username = 'Will';
+var username = 'codeup';
 
-var password = 'William';
+var password = 'notastrongpassword';
 
 console.log("password.length >= 5 is:");
 
